@@ -1,2 +1,4 @@
 print("p")
 print("raaa")
+for i in range(5):
+    print(i)
