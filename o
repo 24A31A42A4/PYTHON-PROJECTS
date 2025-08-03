@@ -1,3 +1,5 @@
 print("p")
 print("raaa")
 l=[i for i in [1,2,3]]
+class Hey:
+  print("hello")
