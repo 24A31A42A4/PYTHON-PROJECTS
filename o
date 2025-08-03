@@ -2,3 +2,6 @@ print("p")
 print("raaa")
 l=[i for i in [1,2,3]]
 print("hello")
+class Hello:
+  def hey(self):
+    print("hey")
