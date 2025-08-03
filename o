@@ -3,3 +3,6 @@ print("raaa")
 l=[i for i in [1,2,3]]
 print("hello")
 print(10+20)
+class Hello:
+  def hey(self):
+    print("hey")
